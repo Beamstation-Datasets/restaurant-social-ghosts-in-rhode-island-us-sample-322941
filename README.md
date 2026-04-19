@@ -9,9 +9,9 @@
 | Dataset ID | `322941` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 40 records |
-| Free sample size | 4 records (10.0%) |
-| Last export | 2026-04-08T07:43:59.656397+00:00 |
+| Full dataset size | 41 records |
+| Free sample size | 4 records (9.76%) |
+| Last export | 2026-04-15T10:57:59.781318+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-rhode-island-us-sample-322941/releases/download/sample-latest/beamstation_322941_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
