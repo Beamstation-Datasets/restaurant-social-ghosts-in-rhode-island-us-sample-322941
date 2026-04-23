@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Rhode Island, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `322941` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-15T10:57:59.781318+00:00 |
+| Full dataset size | 9 records |
+| Free sample size | 1 records (11.11%) |
+| Last export | 2026-04-22T19:03:39.153118+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-rhode-island-us-sample-322941/releases/download/sample-latest/beamstation_322941_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
