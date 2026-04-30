@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3bd042c0-6bb9-4207-9c27-873dd95e774b",
+  "export_job_id": "f03a0c36-cc49-4c17-9d2f-173539ecc36f",
   "id_short": 322941,
-  "published_at": "2026-04-23T07:31:53Z",
+  "published_at": "2026-04-30T07:43:54Z",
   "repo_name": "restaurant-social-ghosts-in-rhode-island-us-sample-322941",
   "sample_asset_name": "beamstation_322941_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/322941/beamstation_322941_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "b60e43d99f3ebfbac78223c85542846f899449119745cc69e9e0d5235cdfd095",
-  "sample_size_bytes": 20182,
-  "total_records": 9
+  "sample_records": 2,
+  "sample_sha256": "2f27806ea7f9633814c6864b2f86f7909eb00e87d396f4e1effc078dcce8ecdd",
+  "sample_size_bytes": 23536,
+  "total_records": 26
 }
